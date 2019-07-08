@@ -20,3 +20,6 @@ MySQL
 
 http://hostname:portno/home
 Ex: Http://localhost:8080/home
+
+## Scripts for Data Base can be found in data.sql
+
