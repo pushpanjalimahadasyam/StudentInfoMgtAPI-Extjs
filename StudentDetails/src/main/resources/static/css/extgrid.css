@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+.extra-alt .x-grid-row .x-grid-cell { 
+    background-color: #fff; 
+    color: #000; 
+} 
+ 
+.extra-alt .x-grid-row-alt .x-grid-cell { 
+   background-color: #e2ffe2; 
+    color: #090; 
+}
+
+.x-grid-row .rollnumber-column { 
+    background-color: #ecf; 
+    color: #090; 
+    font-weight: bold; 
+}
+
+.extra-alt .x-grid-row-over .x-grid-cell { 
+    background-color: #ff6; 
+    border-bottom-color: #999; 
+    border-bottom-style: dashed; 
+    border-top-color: #999; 
+    border-top-style: dashed; 
+} 
+.extra-alt .x-grid-row-selected .x-grid-cell { 
+    background-color: #abddec !important; 
+    border-bottom-color: #999; 
+    border-bottom-style: solid; 
+    border-top-color: #999; 
+    border-top-style: solid; 
+}
+
+.myHighlight{
+       background : #f6ccdc !important;	
+   }
